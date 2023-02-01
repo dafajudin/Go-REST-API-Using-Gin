@@ -16,3 +16,9 @@
 
 ####  to encrypt our user's password
 ```go get -u golang.org/x/crypto```
+
+### client
+install dependencies first
+```bash
+cd client && npm install
+```
