@@ -9,7 +9,8 @@ go get -u github.com/gin-gonic/gin
 
 ORM library
 ```bash 
-go get -u github.com/jinzhu/gorm```
+go get -u github.com/jinzhu/gorm
+```
 
 Package that we will be used to authenticate and generate our JWT
 ```bash
