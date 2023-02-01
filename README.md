@@ -3,16 +3,24 @@
 ## Packages that we will need to install for this project.
 
 gin framework
-```go get -u github.com/gin-gonic/gin```
+```bash
+go get -u github.com/gin-gonic/gin
+```
 
 ORM library
-```go get -u github.com/jinzhu/gorm```
+```bash 
+go get -u github.com/jinzhu/gorm```
 
 Package that we will be used to authenticate and generate our JWT
-```go get -u github.com/dgrijalva/jwt-go```
+```bash
+go get -u github.com/dgrijalva/jwt-go
+```
 
 manage our environment variables
-```go get -u github.com/joho/godotenv```
+```bash
+go get -u github.com/joho/godotenv
+```
 
 to encrypt our user's password
-```go get -u golang.org/x/crypto```
+```bash 
+go get -u golang.org/x/crypto```
